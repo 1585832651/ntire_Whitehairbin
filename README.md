@@ -1,4 +1,4 @@
-# [NTIRE 2025 Challenge on Image Denoising](https://cvlai.net/ntire/2025/) @ [CVPR 2025](https://cvpr2025.thecvf.com/)
+# [NTIRE 2025 Challenge on Image Denoising](https://cvlai.net/ntire/2025/) @ [CVPR 2025](https://cvpr.thecvf.com/)
 
 This is an example of adding noise and simple baseline model.
 
